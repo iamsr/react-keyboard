@@ -28,17 +28,25 @@
     width: 90%;
     height: 80%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-center;
     align-items: center;
 }
 
 .inputEditText{
     width:90%;
-    height: 80%;
+    height: 100%;
+    background: black;
+    border: none;
+    color: white;
+    box-sizing: border-box;
+    padding-left: 10px;
+    font-size: 18px;
 }
 
 .inputManual{
-    margin-left: 10px;
+    color: #fafafa;
+    font-size: 14px;
+    margin-left: 15px;
 }
 
 
